@@ -1,9 +1,9 @@
-# try:
-#  x=10/0
-# except ZeroDivisionError:
-#     print(" cannot divide by zero")
-# finally:
-#     print("program ended")
+ try:
+  x=10/0
+ except ZeroDivisionError:
+     print(" cannot divide by zero")
+ finally:
+     print("program ended")
 
  try:
      num=int("abc")
