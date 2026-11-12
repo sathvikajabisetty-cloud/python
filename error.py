@@ -5,15 +5,15 @@
 # finally:
 #     print("program ended")
 
-# try:
-#     num=int("abc")
-#     result=10/0
-# except ValueError:
-#     print("invalid numbers")
-# except ZeroDivisionError:
-#     print("cannot divide by zero")
-# finally:
-#     print("done")
+ try:
+     num=int("abc")
+     result=10/0
+ except ValueError:
+     print("invalid numbers")
+ except ZeroDivisionError:
+     print("cannot divide by zero")
+ finally:
+     print("done")
 
  try:
      f=open("data.txt")
