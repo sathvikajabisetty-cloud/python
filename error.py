@@ -15,9 +15,9 @@
 # finally:
 #     print("done")
 
-# try:
-#     f=open("data.txt")
-# except Exception as e:
-#     print("error:,e")
-# finally:
-#     print("file handling attempted")
+ try:
+     f=open("data.txt")
+ except Exception as e:
+     print("error:,e")
+ finally:
+     print("file handling attempted")
