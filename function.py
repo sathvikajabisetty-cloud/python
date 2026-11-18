@@ -14,10 +14,10 @@
      print(f"my name is {name},my age is {age}")
  introduce(name ="sathvika",age = 17)
 
-# def my_function(name ="guest"):
-#     print("hello",name)
-# my_function()
-# my_function("ram")
+ def my_function(name ="guest"):
+     print("hello",name)
+ my_function()
+ my_function("ram")
 
 # x = 100
 # def func():
