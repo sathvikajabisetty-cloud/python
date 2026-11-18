@@ -1,18 +1,18 @@
-# def greet():
-#     print("hello world")
-# greet()
+ def greet():
+     print("hello world")
+ greet()
 
-# def my_function(name):
-#     print("hello",name)
-# my_function("world")
+ def my_function(name):
+     print("hello",name)
+ my_function("world")
 
-# def add(a,b):
-#     print("sum is: ",a+b)
-# add(5,10)
+ def add(a,b):
+     print("sum is: ",a+b)
+ add(5,10)
 
-# def introduce(name,age):
-#     print(f"my name is {name},my age is {age}")
-# introduce(name ="sathvika",age = 17)
+ def introduce(name,age):
+     print(f"my name is {name},my age is {age}")
+ introduce(name ="sathvika",age = 17)
 
 # def my_function(name ="guest"):
 #     print("hello",name)
