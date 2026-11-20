@@ -19,11 +19,11 @@
  my_function()
  my_function("ram")
 
-# x = 100
-# def func():
-#     y = 50
-#     print("inside function,x=",x)
-#     print("inside function,y=",y)
+ x = 100
+ def func():
+     y = 50
+     print("inside function,x=",x)
+     print("inside function,y=",y)
 # func()
 # print("outside function,x=",x)
 # print(y)
