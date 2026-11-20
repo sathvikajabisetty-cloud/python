@@ -46,10 +46,10 @@
  b= int(input("enter a value: "))
  c= int(input("enter a value: "))
 
-# def function(a,b,c):
-#   if (a>b>c or a>c>b):
-#       print("a")
-#   if(b>a>c  or b>c>a):
+ def function(a,b,c):
+   if (a>b>c or a>c>b):
+       print("a")
+   if(b>a>c  or b>c>a):
 #       print("b")
 #   if(c>b>a or c>a>b):
 #       print("c")
