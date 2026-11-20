@@ -34,17 +34,17 @@
      print(a*b)
  function(9,4)
 
-# num = int(input("enter a num: "))
-# def function(num):
-#     if num%2==0:
-#       print("even")
-#     else:
-#        print("odd")
-# function(num)
+ num = int(input("enter a num: "))
+ def function(num):
+     if num%2==0:
+       print("even")
+     else:
+        print("odd")
+ function(num)
 
-# a =int(input("enter a value: "))
-# b= int(input("enter a value: "))
-# c= int(input("enter a value: "))
+ a =int(input("enter a value: "))
+ b= int(input("enter a value: "))
+ c= int(input("enter a value: "))
 
 # def function(a,b,c):
 #   if (a>b>c or a>c>b):
