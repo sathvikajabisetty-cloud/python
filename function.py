@@ -24,15 +24,15 @@
      y = 50
      print("inside function,x=",x)
      print("inside function,y=",y)
-# func()
-# print("outside function,x=",x)
-# print(y)
+ func()
+ print("outside function,x=",x)
+ print(y)
 
-# a =int(input("enter a value: "))
-# b= int(input("enter a value: "))
-# def function(a,b):
-#     print(a*b)
-# function(9,4)
+ a =int(input("enter a value: "))
+ b= int(input("enter a value: "))
+ def function(a,b):
+     print(a*b)
+ function(9,4)
 
 # num = int(input("enter a num: "))
 # def function(num):
