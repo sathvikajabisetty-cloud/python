@@ -55,11 +55,11 @@
        print("c")
  function(a,b,c)
 
-# name = (input("enter name: "))
-# def function(name):
-#     print(name[::-1])
+ name = (input("enter name: "))
+ def function(name):
+     print(name[::-1])
     
-# function(name)
+ function(name)
 
 
 # a = int(input("enter number: "))
