@@ -50,10 +50,10 @@
    if (a>b>c or a>c>b):
        print("a")
    if(b>a>c  or b>c>a):
-#       print("b")
-#   if(c>b>a or c>a>b):
-#       print("c")
-# function(a,b,c)
+       print("b")
+   if(c>b>a or c>a>b):
+       print("c")
+ function(a,b,c)
 
 # name = (input("enter name: "))
 # def function(name):
