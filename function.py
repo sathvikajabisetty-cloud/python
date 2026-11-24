@@ -68,11 +68,11 @@
     for i in range(1,n+1):
          result*= i
      print(result)
-# func(a)
+ func(a)
 
-# name = (input("enter name: "))
-# def func(name):
-#     vowels = "aeiouAEIOU"
+ name = (input("enter name: "))
+ def func(name):
+     vowels = "aeiouAEIOU"
 #     count = 0
 #     for char in name:
 #         if char in vowels: 
