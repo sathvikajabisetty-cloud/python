@@ -73,12 +73,12 @@
  name = (input("enter name: "))
  def func(name):
      vowels = "aeiouAEIOU"
-#     count = 0
-#     for char in name:
-#         if char in vowels: 
-#          count+=1
-#     print(count)
-# func(name)
+     count = 0
+     for char in name:
+         if char in vowels: 
+          count+=1
+     print(count)
+ func(name)
 
 # def square(x):
 #     return x*x
