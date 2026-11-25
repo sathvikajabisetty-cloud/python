@@ -80,8 +80,8 @@
      print(count)
  func(name)
 
-# def square(x):
-#     return x*x
+ def square(x):
+     return x*x
 # number = [1,2,3,4,5]
 # squared = list(map(square,number))
 # print(squared)
